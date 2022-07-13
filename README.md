@@ -1,2 +1,1 @@
-# form-validation
-Form validator using JS
+## https://formvalidat.netlify.app/
